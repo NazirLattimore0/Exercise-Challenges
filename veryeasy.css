@@ -1,0 +1,115 @@
+.Container {
+  margin-top: 90px;
+  margin-left: 90px;
+  margin-right: 90px;
+  border: 1px solid black;
+  display: grid;
+}
+
+.checkerboard {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  display: grid;
+  grid-template-rows: 60px 60px 60px 60px 60px 60px 60px 60px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  background: rgb(0, 0, 0);
+}
+
+.item-1 {
+  background-color: white;
+}
+.item-4 {
+  background-color: white;
+}
+.item-6 {
+  background-color: white;
+}
+.item-8 {
+  background-color: white;
+}
+.item-9 {
+  background-color: white;
+}
+.item-11 {
+  background-color: white;
+}
+.item-13 {
+  background-color: white;
+}
+.item-15 {
+  background-color: white;
+}
+.item-18 {
+  background-color: white;
+}
+.item-20 {
+  background-color: white;
+}
+.item-22 {
+  background-color: white;
+}
+.item-24 {
+  background-color: white;
+}
+.item-25 {
+  background-color: white;
+}
+.item-27 {
+  background-color: white;
+}
+.item-29 {
+  background-color: white;
+}
+.item-31 {
+  background-color: white;
+}
+.item-34 {
+  background-color: white;
+}
+.item-36 {
+  background-color: white;
+}
+.item-38 {
+  background-color: white;
+}
+.item-40 {
+  background-color: white;
+}
+.item-41 {
+  background-color: white;
+}
+.item-43 {
+  background-color: white;
+}
+.item-45 {
+  background-color: white;
+}
+.item-47 {
+  background-color: white;
+}
+.item-50 {
+  background-color: white;
+}
+.item-52 {
+  background-color: white;
+}
+.item-54 {
+  background-color: white;
+}
+.item-56 {
+  background-color: white;
+}
+.item-57 {
+  background-color: white;
+}
+.item-59 {
+  background-color: white;
+}
+.item-61 {
+  background-color: white;
+}
+
+.item-63 {
+  background-color: white;
+}

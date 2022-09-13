@@ -1,0 +1,24 @@
+table {
+  margin: 10px;
+  margin-left: 0px;
+  margin-top: 11px;
+  width: 1200px;
+}
+
+.red-stripe {
+  background-color: red;
+  width: 100%;
+  height: 50px;
+}
+.white-stripe {
+  background-color: white;
+  width: 100%;
+  height: 50px;
+}
+img {
+  position: absolute;
+  top: 1.2%;
+  left: 1%;
+  width: 500px;
+  height: 379px;
+}
